@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkesiraju786
 - 👀 I’m interested in Computational Biology & Product Management
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Resaerch work related to BioInformatics, Computational Biology, and Product Management
+- 💞️ I’m looking to collaborate on Research work related to BioInformatics, Computational Biology, and Product Management
 - 📫 How to reach me: Send me an email rajagopal.kesiraju@gmail.com
 
 <!---
